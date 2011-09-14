@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for ButtonsApp
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ButtonsApp	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+refresh		KEYWORD2
+begin		KEYWORD2
+setInverted	KEYWORD2
+lastButton	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
