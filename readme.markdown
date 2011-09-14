@@ -16,4 +16,4 @@ Buttons for Arduino is Open Source under the BSD 3-Clause license! Fork the repo
 
 ##License
 
-Meters for Arduino is released under the [BSD 3-Clause license](http://www.opensource.org/licenses/BSD-3-Clause). You can view our other legal information in legal.markdown or on the [website](http://robotgrrl.com/apps4arduino/meters.php).
+Meters for Arduino is released under the [BSD 3-Clause license](http://www.opensource.org/licenses/BSD-3-Clause). You can view our other legal information in legal.markdown or on the [website](http://robotgrrl.com/apps4arduino/buttons.php).
